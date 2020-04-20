@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Test Post
+title: Test Figures Post
 author: mayan_navon
 ---
 
