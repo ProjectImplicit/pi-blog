@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About MinnoJS
+title: Project Implicit's International Sites Blog
 permalink: /about/
 ---
 
-[MinnoJS](https://minnojs.github.io/) is a free tool for creating web studies with sophisticated questionnaires
+[Project Implicit's International Sites Blog](https://projectimplicit.github.io/pi-blog-international/) is a free tool for creating web studies with sophisticated questionnaires
 and reaction time tasks. This blog is all about programming with Minno.
 We are a group of programmers and researchers that participated in the creation of MinnoJS.
 This is where we write about the problems that we solve and the chalenges that we face.

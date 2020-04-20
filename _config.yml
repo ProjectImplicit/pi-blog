@@ -9,7 +9,7 @@ name: Project Implicit
 description: Project Implicit Ideas
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /pi-blog/images/logo.png
+avatar: /pi-blog-international/images/logo.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: ProjectImplicit/pi-blog
+  github: ProjectImplicit/pi-blog-international
   instagram:
   linkedin:
   pinterest:
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/pi-blog"
+baseurl: "/pi-blog-international"
 
 #
 # !! You don't need to change any of the configuration flags below !!
