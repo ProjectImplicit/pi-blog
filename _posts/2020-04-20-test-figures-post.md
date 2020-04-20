@@ -4,9 +4,6 @@ title: Test Figures Post
 author: mayan_navon
 ---
 
-Individual Task Results: Age
-----------------------------
-
 <mark>Total N = 3203
 
 #### **Evaluation measures**
@@ -36,29 +33,6 @@ category (young people).
 -   *Correlation between the measures*: There is a small
     automatic-deliberate correlation, and a strong relation between the
     two self-report measures.
-
-<!-- -->
-
-    ## 
-    ##  CORRELATION MATRIX
-    ## 
-    ##  Correlation Matrix                                                
-    ##  ----------------------------------------------------------------- 
-    ##                                  IAT       att       diff_thermo   
-    ##  ----------------------------------------------------------------- 
-    ##    IAT            Pearson's r         —                            
-    ##                   p-value             —                            
-    ##                                                                    
-    ##    att            Pearson's r     0.177         —                  
-    ##                   p-value        < .001         —                  
-    ##                                                                    
-    ##    diff_thermo    Pearson's r     0.130     0.622              —   
-    ##                   p-value        < .001    < .001              —   
-    ##  -----------------------------------------------------------------
-
--   *IAT block-order*
-
-![](../images/example_file_files/figure-markdown_strict/unnamed-chunk-6-1.png)
 
 #### **Evaluation measures by year**
 
