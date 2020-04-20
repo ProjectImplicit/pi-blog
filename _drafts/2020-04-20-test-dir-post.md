@@ -1,12 +1,8 @@
 ﻿---
 layout: post
-title: Test Figures Post
+title: Test Dir Post
 author: mayan_navon
 ---
-
-<mark>Total N = 3203
-
-Participation per year (N):
 
 #### **Evaluation measures**
 
