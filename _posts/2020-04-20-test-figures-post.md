@@ -1,10 +1,9 @@
-﻿---
-layout: post
-title: Test Figures Post
-author: mayan_navon
----
+Individual Task Results: Age
+----------------------------
 
 <mark>Total N = 3203
+
+Participation per year (N):
 
 #### **Evaluation measures**
 
@@ -13,12 +12,12 @@ category (young people).
 
 -   *IAT*: There is a strong bias in favor of Young people
 
-![](../images/example_file_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+![](C:/Users/Lenovo/Google%20Drive/School/PhD/Lab%20projects/iat%20israel/pi-blog-international/images/example_file_files/figure-markdown_strict/unnamed-chunk-2-1.png)
 
 -   *Self-reported preference between the categories*: There is a strong
     bias in favor of Young people
 
-![](../images/example_file_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](C:/Users/Lenovo/Google%20Drive/School/PhD/Lab%20projects/iat%20israel/pi-blog-international/images/example_file_files/figure-markdown_strict/unnamed-chunk-3-1.png)
 
 -   *Self-reported feeling thermometer (difference score)*: There is a
     small bias in favor of Young people. The difference between the
@@ -28,11 +27,34 @@ category (young people).
     does not compare the two categories directly. A comparative context
     might facilitate bias.
 
-![](../images/example_file_files/figure-markdown_strict/unnamed-chunk-4-1.png)
+![](C:/Users/Lenovo/Google%20Drive/School/PhD/Lab%20projects/iat%20israel/pi-blog-international/images/example_file_files/figure-markdown_strict/unnamed-chunk-4-1.png)
 
 -   *Correlation between the measures*: There is a small
     automatic-deliberate correlation, and a strong relation between the
     two self-report measures.
+
+<!-- -->
+
+    ## 
+    ##  CORRELATION MATRIX
+    ## 
+    ##  Correlation Matrix                                                
+    ##  ----------------------------------------------------------------- 
+    ##                                  IAT       att       diff_thermo   
+    ##  ----------------------------------------------------------------- 
+    ##    IAT            Pearson's r         —                            
+    ##                   p-value             —                            
+    ##                                                                    
+    ##    att            Pearson's r     0.177         —                  
+    ##                   p-value        < .001         —                  
+    ##                                                                    
+    ##    diff_thermo    Pearson's r     0.130     0.622              —   
+    ##                   p-value        < .001    < .001              —   
+    ##  -----------------------------------------------------------------
+
+-   *IAT block-order*
+
+![](C:/Users/Lenovo/Google%20Drive/School/PhD/Lab%20projects/iat%20israel/pi-blog-international/images/example_file_files/figure-markdown_strict/unnamed-chunk-6-1.png)
 
 #### **Evaluation measures by year**
 
@@ -41,4 +63,4 @@ same (and strong) throughout the years. *Note*: The dashed line marks
 the point of no preference between the two categories (Old people and
 Young people).
 
-![](../images/example_file_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+![](C:/Users/Lenovo/Google%20Drive/School/PhD/Lab%20projects/iat%20israel/pi-blog-international/images/example_file_files/figure-markdown_strict/unnamed-chunk-7-1.png)
