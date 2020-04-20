@@ -2,7 +2,7 @@
 layout: post
 title: Test Figures Post
 author: mayan_navon
-tags: [Age-IAT, Israel]
+tags: age-iat israel
 ---
 
 <mark>Total N = 3203
