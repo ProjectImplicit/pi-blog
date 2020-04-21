@@ -11,6 +11,16 @@ description: Project Implicit's International Sites Blog
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /pi-blog-international/images/logo.png
 
+# MN
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
 #
 # Flags below are optional
 #
@@ -18,7 +28,7 @@ avatar: /pi-blog-international/images/logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: mayanna@post.bgu.ac.il
   facebook:
   flickr:
   github: ProjectImplicit/pi-blog-international
